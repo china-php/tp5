@@ -10,6 +10,7 @@ namespace app\api\controller\v1;
 use app\common\controller\Api;
 use Elasticsearch\ClientBuilder;
 
+
 class search extends Api
 {
 
